@@ -102,3 +102,6 @@ pip-selfcheck.json
 
 # mypy
 .mypy_cache/
+
+# project
+test.csv
